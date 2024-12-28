@@ -1,0 +1,44 @@
+body { 
+      background-image: url("https://c7.alamy.com/comp/2CRMPDB/passengers-boarding-plane-flat-vector-illustration-airport-people-on-airfield-tourists-travelers-fly-on-charter-flight-men-and-women-climb-the-2CRMPDB.jpg");
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      font-weight: bold;
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+}
+
+h1 { 
+    color: rgb(0, 65, 56);
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    color: rgb(7, 59, 59);
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button { 
+    color: rgb(12, 41, 56);
+    font-weight: bold;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 100px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#count-btn { 
+    background: rgb(255, 255, 255);
+}
+
+#save-btn { 
+    background: rgb(7, 193, 226);
+}
